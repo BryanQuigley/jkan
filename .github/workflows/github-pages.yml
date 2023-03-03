@@ -9,7 +9,7 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs on pushes targeting this branch
   push:
-    branches: ["v2"]
+    branches: [v2]
   pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
